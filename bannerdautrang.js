@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://vanphongchothuetaiquan1tphcm.blogspot.com/' target='_blank'><img src='http://hinhanhdep.pro/hinh-anh-em-be-cuc-dep-va-de-thuong-nam-2016/#prettyPhoto/2/' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Tuấn Kiệt. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://vanphongchothuetaiquan1tphcm.blogspot.com' target='_blank'><img src='http://www.chothuevanphongsaigon.com/wp-content/uploads/2016/03/logo.png' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Tuấn Kiệt. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
